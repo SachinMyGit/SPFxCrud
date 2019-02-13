@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fu-client-side-solution",
+    "id": "000a74d9-3488-4dd1-b798-5e11bc710c40",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/fu.sppkg"
+  }
+}

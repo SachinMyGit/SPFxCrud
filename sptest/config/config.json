@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/thankGod/ThankGodWebPart.js",
+      "manifest": "./src/webparts/thankGod/ThankGodWebPart.manifest.json",
+      "outputPath": "./dist/thank-god-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ThankGodWebPartStrings": "webparts/thankGod/loc/{locale}.js"
+  }
+}
